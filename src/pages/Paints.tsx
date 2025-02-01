@@ -11,7 +11,7 @@ export const Paints = () => {
               muted
               playsInline
             >
-              <source src="./videos/paints.mp4" type="video/mp4" />
+              <source src="/videos/paints.mp4" type="video/mp4" />
               <source src="/videos/paints.mp4" type="video/webm" />
               <source src="/videos/paints.mp4" type="video/quicktime" />
             </video>
