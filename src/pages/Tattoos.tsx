@@ -1,12 +1,12 @@
 const images = [
-  "/images/tattoos/1DD12ACA-BA01-4837-AE42-18E027394E69.JPG",
-  "/images/tattoos/8F760908-2077-4D61-ABD4-3F276685D866.jpg",
-  "/images/tattoos/48C437E1-9767-4890-80AB-7118E21473AE.JPG",
-  "/images/tattoos/FullSizeRender 2.jpg",
-  "/images/tattoos/FullSizeRender.jpg",
-  "/images/tattoos/IMG_0178.jpg",
-  "/images/tattoos/IMG_2089.jpg",
-  "/images/tattoos/IMG_0645.jpg",
+  "/robinbbart/images/tattoos/1DD12ACA-BA01-4837-AE42-18E027394E69.JPG",
+  "/robinbbart/images/tattoos/8F760908-2077-4D61-ABD4-3F276685D866.jpg",
+  "/robinbbart/images/tattoos/48C437E1-9767-4890-80AB-7118E21473AE.JPG",
+  "/robinbbart/images/tattoos/FullSizeRender 2.jpg",
+  "/robinbbart/images/tattoos/FullSizeRender.jpg",
+  "/robinbbart/images/tattoos/IMG_0178.jpg",
+  "/robinbbart/images/tattoos/IMG_2089.jpg",
+  "/robinbbart/images/tattoos/IMG_0645.jpg",
 ];
 
 export const Tattoos = () => {

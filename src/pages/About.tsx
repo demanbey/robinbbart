@@ -1,7 +1,7 @@
 export const About = () => {
   return (
     <div className="w-full h-[calc(100vh-6rem)]">
-      <div className="sm:flex flex-col sm:flex-row sm:items-center h-full m-4 sm:m-0 sm:mx-12">
+      <div className="flex flex-col lg:flex-row lg:items-center h-full m-4 lg:m-0 lg:mx-12">
         {/* Text Section */}
         <div className="w-full space-y-8 sm:w-1/2 p-3 sm:p-10 bg-white sm:mr-10">
           <div className="font-semibold text-4xl">
@@ -57,7 +57,7 @@ export const About = () => {
         <div className="w-full sm:w-1/2">
           <div className="w-full h-full">
             <img
-              src="/images/99820013.avif"
+              src="/robinbbart/images/99820013.avif"
               className="w-full h-full object-cover"
               alt="robin"
             />
