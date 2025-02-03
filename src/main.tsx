@@ -9,7 +9,7 @@ createRoot(document.getElementById("root")!).render(
       <div
         className="bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('/robinbbart/images/landingpage.jpg')",
+          backgroundImage: "url('/images/landingpage.jpg')",
         }}
       >
         <App />

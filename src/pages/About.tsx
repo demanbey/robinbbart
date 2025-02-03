@@ -57,7 +57,7 @@ export const About = () => {
         <div className="w-full sm:w-1/2">
           <div className="w-full h-full">
             <img
-              src="/robinbbart/images/99820013.avif"
+              src="/images/99820013.avif"
               className="w-full h-full object-cover"
               alt="robin"
             />

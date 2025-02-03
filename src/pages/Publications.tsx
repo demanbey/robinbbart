@@ -1,33 +1,33 @@
 export const Publications = () => {
   const imageData = [
     {
-      src: "/robinbbart/images/published/photo1.jpg",
+      src: "/images/published/photo1.jpg",
       alt: "Image 1",
       text: "Ruido Blanco Artist Residency, 2023. Completed project: “La paleta de Iguazú” a collection of plant-based handmade watercolors made from plants found only in the Iguazú region, with accompanying paintings and a guidebook illustrating the process of making paints. Exhibited in the Ruido Blanco group exhibition.",
     },
     {
-      src: "/robinbbart/images/published/hands2020.jpg",
+      src: "/images/published/hands2020.jpg",
       alt: "Image 2",
       text: "Hands - Illustrated poem, self-published",
       link: "./pdf/hands.pdf",
     },
     {
-      src: "/robinbbart/images/published/photo3.png",
+      src: "/images/published/photo3.png",
       alt: "Image 3",
       text: "Illustrations for Craig Rodger’s short novel.",
     },
     {
-      src: "/robinbbart/images/published/photo4.png",
+      src: "/images/published/photo4.png",
       alt: "Image 4",
       text: "Illustration selected for Emily Blair’s Two Poems. Pidgeonholes Literary Magazine.",
     },
     {
-      src: "/robinbbart/images/published/photo5.png",
+      src: "/images/published/photo5.png",
       alt: "Image 5",
       text: "Illustration selected for Tom Weller’s And There Came Forth a Great Fish. Pidgeonholes",
     },
     {
-      src: "/robinbbart/images/published/photo6.png",
+      src: "/images/published/photo6.png",
       alt: "Image 6",
       text: "Illustration selected for Nicole Oquendo’s The Antichrist Picks Flowers For Me At The Botanical Garden. Pidgeonholes Literary Magazine.",
     },
